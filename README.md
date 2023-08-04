@@ -11,7 +11,7 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ## Data Management
 [NOAA 'Omics Draft Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
 
-### NOAA 'Omics Github Repositories
+## NOAA 'Omics Github Repositories
 [AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
 [PMEL Ocean Molecular Ecology GitHub](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
 [GLERL Github](https://github.com/NOAA-GLERL) <br>
