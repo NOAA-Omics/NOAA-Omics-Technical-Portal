@@ -11,6 +11,7 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ## Protocols
 
 ### Sampling Protocols
+[Better Biomolecular Ocean Practices (BeBOP)](https://github.com/BeBOP-OBON)
 
 ### Processing Protocols
 [Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline) <br>
