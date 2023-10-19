@@ -13,9 +13,9 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ### Sampling Protocols
 
 ### Processing Protocols
-[Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline)
-[REVAMP: Rapid Exploration and Visualization through an Automated Metabarcoding Pipeline](https://github.com/McAllister-NOAA/REVAMP)
-[rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX)
+[Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline) <br>
+[REVAMP: Rapid Exploration and Visualization through an Automated Metabarcoding Pipeline](https://github.com/McAllister-NOAA/REVAMP) <br>
+[rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
 
 ### Curation and Archival Protocols
 [NOAA 'Omics Draft Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
