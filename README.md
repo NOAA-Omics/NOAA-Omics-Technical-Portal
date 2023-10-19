@@ -34,3 +34,25 @@ processes, or services by service mark, trademark, manufacturer, or otherwise, d
 imply their endorsement, recommendation or favoring by the Department of Commerce. The Department
 of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to
 imply endorsement of any commercial product or activity by DOC or the United States Government.
+
+{% codetabs %}
+
+{% codetab C %}
+```c
+printf("Hello, world!");
+```
+{% endcodetab %}
+
+{% codetab Go %}
+```go
+fmt.Println("Hello, world!")
+```
+{% endcodetab %}
+
+{% codetab Python %}
+```python
+print("Hello, world!")
+```
+{% endcodetab %}
+
+{% endcodetabs %}
