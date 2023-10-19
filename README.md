@@ -8,8 +8,15 @@ Home for [NOAA 'Omics](https://oceanexplorer.noaa.gov/technology/omics/noaa-omic
 
 Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html). <br>
 
-## Data Management
+## Protocols
+
+### Sampling Protocols
+
+### Processing Protocols
+
+### Curation and Archival Protocols
 [NOAA 'Omics Draft Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
+
 
 ## NOAA 'Omics Github Repositories
 [AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
