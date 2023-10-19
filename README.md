@@ -14,8 +14,11 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 
 ### Processing Protocols
 [Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline) <br>
+
 [REVAMP: Rapid Exploration and Visualization through an Automated Metabarcoding Pipeline](https://github.com/McAllister-NOAA/REVAMP) <br>
+
 [rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
+
 
 ### Curation and Archival Protocols
 [NOAA 'Omics Draft Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
@@ -27,12 +30,12 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 [GLERL Github](https://github.com/NOAA-GLERL) <br>
 [NWFSC Conservation Biology Division](https://github.com/nwfsc-cb)<br>
 [CalCOFI Github](https://github.com/CalCOFI/) <br>
- <br>
+<br>
 <br>
 Don't see you NOAA 'Omics Github repository linked here? Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc4TjDNKVM3c-ty1WYTbvxGaa9Ee6Yds1i0iOGrwvrWnfxTxg/viewform?usp=sf_link)
 
  <br>
-  <br>
+ <br>
 
 ### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and
