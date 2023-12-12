@@ -26,9 +26,13 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 
 
 ## NOAA 'Omics Github Repositories
+
+### OAR
 [AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
 [PMEL Ocean Molecular Ecology GitHub](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
 [GLERL Github](https://github.com/NOAA-GLERL) <br>
+
+### NMFS
 [NWFSC Conservation Biology Division](https://github.com/nwfsc-cb)<br>
 [CalCOFI Github](https://github.com/CalCOFI/) <br>
 <br>
