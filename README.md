@@ -41,9 +41,9 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 - [Amethyst Metagenomics Workflow](https://github.com/aomlomics/amethyst)  <br>
 
 #### Population Genetics & Transcriptomics
-- [SWFSC Eric Archer's GitHub](https://github.com/EricArcher) <br>
-- [SWFSC Eric Anderson's GitHub](https://github.com/eriqande?tab=repositories) <br>
-- [AOML Michael Studivan's GitHub](https://github.com/mstudiva?tab=repositories) <br>
+- [SWFSC Eric Archer's Repositories](https://github.com/EricArcher) <br>
+- [SWFSC Eric Anderson's Repositories](https://github.com/eriqande?tab=repositories) <br>
+- [AOML Michael Studivan's Repositories](https://github.com/mstudiva?tab=repositories) <br>
 
 ### Data Visualization
 - [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
@@ -51,18 +51,18 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ## Aggregated NOAA 'Omics Line Office Github Repositories
 
 ### OAR
-- [AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
-- [PMEL Ocean Molecular Ecology GitHub](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
-- [GLERL Github](https://github.com/NOAA-GLERL) <br>
-- [CIGLR Geo-OMICS Research Group Github](https://github.com/Geo-omics) <br>
+- [AOML 'Omics Repositories](https://github.com/aomlomics/) <br>
+- [PMEL Ocean Molecular Ecology Repositories](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
+- [GLERL Repositories](https://github.com/NOAA-GLERL) <br>
+- [CIGLR Geo-OMICS Research Group Repositories](https://github.com/Geo-omics) <br>
 
 ### NMFS
-- [NWFSC Conservation Biology Division Github](https://github.com/nwfsc-cb)<br>
-- [CalCOFI Github](https://github.com/CalCOFI/) <br>
+- [NWFSC Conservation Biology Division Repositories](https://github.com/nwfsc-cb)<br>
+- [CalCOFI Repositories](https://github.com/CalCOFI/) <br>
 - [NMFS Open Science Guide](https://nmfs-opensci.github.io/GitHub-Guide/) <br>
 
 ### OER
-- [NOAA Ocean Exploration GitHub](https://github.com/orgs/NOAA-OceanExploration/) <br>
+- [NOAA Ocean Exploration Repositories](https://github.com/orgs/NOAA-OceanExploration/) <br>
 
 <br>
 <br>
