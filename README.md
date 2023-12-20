@@ -1,4 +1,6 @@
-<img src="https://github.com/NOAA-Omics/NOAA-Omics/blob/main/noaa-omics-lrt-800.png" width="400" height="175">
+<p align="center" width="100%">
+  <img src="https://github.com/NOAA-Omics/NOAA-Omics/blob/main/noaa-omics-lrt-800.png" width="400" height="175">
+</p>
 
 # [NOAA 'Omics](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html) Technical Portal <br>
 
