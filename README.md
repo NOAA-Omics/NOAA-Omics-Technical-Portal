@@ -68,6 +68,9 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 <br>
 
 ##### Don't see you NOAA 'Omics Github repository linked here? Please fill out this [form](https://forms.gle/e5FTJM3b5nGDWaNB7/) <br>
+Please add the following tags to your NOAA 'Omics repositories so we can link and search them effectively: 
+**noaa-omics-study**, **noaa-omics-software**, **noaa-omics-data**, and **noaa-omics-education**
+
 
  <br>
  <br>
