@@ -9,16 +9,16 @@
 
 Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html). <br>
 
-## Protocols
+## NOAA 'Omics Protocols
 
-### Sampling Protocols
+### Sampling and Laboratory Protocols
 - [Better Biomolecular Ocean Practices (BeBOP)](https://github.com/BeBOP-OBON)  <br>
 - [MBON Protocols](https://mbari-bog.github.io/MBON-Protocols/)  <br>
 - [AOML Protocols](https://github.com/aomlomics/protocols)  <br>
 - [West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)  <br>
 - [NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)  <br>
 
-### Processing Protocols
+### Bioinformatics Sequence Processing Protocols
 #### Reference Database Generation & Curation
 - [rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
 - [Mitohelper](https://github.com/aomlomics/mitohelper)<br>
