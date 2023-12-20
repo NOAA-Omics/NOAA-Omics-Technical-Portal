@@ -20,10 +20,12 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 
 [rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
 
+### Data Management and Standards
+[NOAA 'Omics Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
+[Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data] (https://github.com/ioos/bio_data_guide) <br>
 
-### Curation and Archival Protocols
-[NOAA 'Omics Draft Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
-
+### Data Visualization
+[MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
 
 ## NOAA 'Omics Github Repositories
 
@@ -31,10 +33,16 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 [AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
 [PMEL Ocean Molecular Ecology GitHub](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
 [GLERL Github](https://github.com/NOAA-GLERL) <br>
+[CIGLR Geo-OMICS Research Group Github](https://github.com/Geo-omics) <br>
 
 ### NMFS
-[NWFSC Conservation Biology Division](https://github.com/nwfsc-cb)<br>
+[NWFSC Conservation Biology Division Github](https://github.com/nwfsc-cb)<br>
 [CalCOFI Github](https://github.com/CalCOFI/) <br>
+[NMFS Open Science Guide](https://nmfs-opensci.github.io/GitHub-Guide/) <br>
+
+### OER
+[NOAA Ocean Exploration GitHub](https://github.com/orgs/NOAA-OceanExploration/) <br>
+
 <br>
 <br>
 Don't see you NOAA 'Omics Github repository linked here? Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc4TjDNKVM3c-ty1WYTbvxGaa9Ee6Yds1i0iOGrwvrWnfxTxg/viewform?usp=sf_link)
