@@ -9,6 +9,14 @@
 
 Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html). <br>
 
+## Data Management and Standards
+
+### Data Management Guides
+- [NOAA 'Omics Data Management Guide](https://github.com/aomlomics/omics-data-management) <br>
+
+### Standardization
+- [Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
+
 ## NOAA 'Omics Protocols
 
 ### Sampling and Laboratory Protocols
@@ -19,22 +27,24 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 - [NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)  <br>
 
 ### Bioinformatics Sequence Processing Protocols
+
 #### Reference Database Generation & Curation
 - [rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
 - [Mitohelper](https://github.com/aomlomics/mitohelper)<br>
+
 #### Metabarcoding
 - [Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline) <br>
 - [REVAMP: Rapid Exploration and Visualization through an Automated Metabarcoding Pipeline](https://github.com/McAllister-NOAA/REVAMP) <br>
 - [Anacapa metabarcoding pipeline](https://github.com/limey-bean/Anacapa) <br>
+
 #### MetaGenomics  
 - [Amethyst Metagenomics Workflow](https://github.com/aomlomics/amethyst)  <br>
+
 #### Population Genetics & Transcriptomics
 - [SWFSC Eric Archer's GitHub](https://github.com/EricArcher) <br>
 - [SWFSC Eric Anderson's GitHub](https://github.com/eriqande?tab=repositories) <br>
 - [AOML Michael Studivan's GitHub](https://github.com/mstudiva?tab=repositories) <br>
-### Data Management and Standards
-- [NOAA 'Omics Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
-- [Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
+
 ### Data Visualization
 - [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
 
