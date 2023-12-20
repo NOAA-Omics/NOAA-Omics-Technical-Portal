@@ -1,5 +1,4 @@
-
-![NOAA 'PMEL Ocean Molecular Ecology Group'Omics](noaa-omics-lrt-800.png)
+<img src="https://github.com/NOAA-Omics/NOAA-Omics/blob/main/noaa-omics-lrt-800.png" width="400" height="175">
 
 # [NOAA 'Omics](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html) Technical Portal <br>
 
