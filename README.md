@@ -14,8 +14,8 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 - [Better Biomolecular Ocean Practices (BeBOP)](https://github.com/BeBOP-OBON)  <br>
 - [MBON Protocols](https://mbari-bog.github.io/MBON-Protocols/)  <br>
 - [AOML Protocols](https://github.com/aomlomics/protocols)  <br>
--[ West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)  <br>
--[ NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)  <br>
+- [West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)  <br>
+- [NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)  <br>
 
 ### Processing Protocols
 #### Reference Database Generation & Curation
@@ -55,8 +55,7 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 
 <br>
 <br>
-Don't see you NOAA 'Omics Github repository linked here? Please fill out this 
-[form](https://docs.google.com/forms/d/e/1FAIpQLSc4TjDNKVM3c-ty1WYTbvxGaa9Ee6Yds1i0iOGrwvrWnfxTxg/viewform?usp=sf_link)
+Don't see you NOAA 'Omics Github repository linked here? Please fill out this [form](https://forms.gle/e5FTJM3b5nGDWaNB7) <br>
 
  <br>
  <br>
