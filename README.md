@@ -11,47 +11,47 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ## Protocols
 
 ### Sampling Protocols
-[Better Biomolecular Ocean Practices (BeBOP)](https://github.com/BeBOP-OBON)  <br>
-[MBON Protocols](https://mbari-bog.github.io/MBON-Protocols/)  <br>
-[AOML Protocols](https://github.com/aomlomics/protocols)  <br>
-[West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)  <br>
-[NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)  <br>
+-[Better Biomolecular Ocean Practices (BeBOP)](https://github.com/BeBOP-OBON)  <br>
+-[MBON Protocols](https://mbari-bog.github.io/MBON-Protocols/)  <br>
+-[AOML Protocols](https://github.com/aomlomics/protocols)  <br>
+-[West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)  <br>
+-[NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)  <br>
 
 ### Processing Protocols
 #### Reference Database Generation & Curation
-[rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
-[Mitohelper](https://github.com/aomlomics/mitohelper)<br>
+-[rCRUX Reference Database Generating Tool](https://github.com/CalCOFI/rCRUX) <br>
+-[Mitohelper](https://github.com/aomlomics/mitohelper)<br>
 #### Metabarcoding
-[Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline) <br>
-[REVAMP: Rapid Exploration and Visualization through an Automated Metabarcoding Pipeline](https://github.com/McAllister-NOAA/REVAMP) <br>
-[Anacapa metabarcoding pipeline](https://github.com/limey-bean/Anacapa) <br>
+-[Tourmaline metabarcoding pipeline](https://github.com/aomlomics/tourmaline) <br>
+-[REVAMP: Rapid Exploration and Visualization through an Automated Metabarcoding Pipeline](https://github.com/McAllister-NOAA/REVAMP) <br>
+-[Anacapa metabarcoding pipeline](https://github.com/limey-bean/Anacapa) <br>
 #### MetaGenomics  
-[Amethyst Metagenomics Workflow](https://github.com/aomlomics/amethyst)  <br>
+-[Amethyst Metagenomics Workflow](https://github.com/aomlomics/amethyst)  <br>
 #### Population Genetics & Transcriptomics
-[SWFSC Eric Archer's GitHub](https://github.com/EricArcher) <br>
-[SWFSC Eric Anderson's GitHub](https://github.com/eriqande?tab=repositories) <br>
-[AOML Michael Studivan's GitHub](https://github.com/mstudiva?tab=repositories) <br>
+-[SWFSC Eric Archer's GitHub](https://github.com/EricArcher) <br>
+-[SWFSC Eric Anderson's GitHub](https://github.com/eriqande?tab=repositories) <br>
+-[AOML Michael Studivan's GitHub](https://github.com/mstudiva?tab=repositories) <br>
 ### Data Management and Standards
-[NOAA 'Omics Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
-[Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
+-[NOAA 'Omics Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
+-[Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
 ### Data Visualization
-[MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
+-[MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
 
 ## NOAA 'Omics Github Repositories
 
 ### OAR
-[AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
-[PMEL Ocean Molecular Ecology GitHub](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
-[GLERL Github](https://github.com/NOAA-GLERL) <br>
-[CIGLR Geo-OMICS Research Group Github](https://github.com/Geo-omics) <br>
+-[AOML 'Omics GitHub](https://github.com/aomlomics/) <br>
+-[PMEL Ocean Molecular Ecology GitHub](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology) <br>
+-[GLERL Github](https://github.com/NOAA-GLERL) <br>
+-[CIGLR Geo-OMICS Research Group Github](https://github.com/Geo-omics) <br>
 
 ### NMFS
-[NWFSC Conservation Biology Division Github](https://github.com/nwfsc-cb)<br>
-[CalCOFI Github](https://github.com/CalCOFI/) <br>
+-[NWFSC Conservation Biology Division Github](https://github.com/nwfsc-cb)<br>
+-[CalCOFI Github](https://github.com/CalCOFI/) <br>
 [NMFS Open Science Guide](https://nmfs-opensci.github.io/GitHub-Guide/) <br>
 
 ### OER
-[NOAA Ocean Exploration GitHub](https://github.com/orgs/NOAA-OceanExploration/) <br>
+-[NOAA Ocean Exploration GitHub](https://github.com/orgs/NOAA-OceanExploration/) <br>
 
 <br>
 <br>
