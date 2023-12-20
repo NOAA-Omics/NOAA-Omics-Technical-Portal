@@ -41,7 +41,7 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 
 ### Data Management and Standards
 [NOAA 'Omics Data Management Guidelines](https://github.com/aomlomics/omics-data-management) <br>
-[Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data] (https://github.com/ioos/bio_data_guide) <br>
+[Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
 
 ### Data Visualization
 [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
