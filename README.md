@@ -18,7 +18,7 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ### Standardization
 - [Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
 
-## NOAA 'Omics Protocols
+## 'Omics Protocols
 
 ### Sampling and Laboratory Protocols
 - [Better Biomolecular Ocean Practices (BeBOP)](https://github.com/BeBOP-OBON)  <br>
@@ -49,7 +49,7 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ### Data Visualization
 - [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
 
-## Aggregated NOAA 'Omics Line Office Github Repositories
+## Aggregated Relevant NOAA Line Office Github Repositories
 
 ### OAR
 - [AOML 'Omics Repositories](https://github.com/aomlomics/) <br>
