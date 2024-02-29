@@ -51,6 +51,9 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 ### Data Visualization
 - [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
 
+## NOAA 'Omics Tutorials
+- [AOML 'Omics Tutorials](https://github.com/aomlomics/tutorials) <br>
+
 ## Aggregated Relevant NOAA Line Office Github Repositories
 
 ### OAR
