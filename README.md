@@ -66,10 +66,13 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 - [NWFSC Conservation Biology Division Repositories](https://github.com/nwfsc-cb)<br>
 - [CalCOFI Repositories](https://github.com/CalCOFI/) <br>
 - [NMFS Open Science Guide](https://nmfs-opensci.github.io/GitHub-Guide/) <br>
+- [NMFS PIFSC](https://github.com/trevornishida/HawaiiMarineFauna) <br>
 
 ### OER
 - [NOAA Ocean Exploration Repositories](https://github.com/orgs/NOAA-OceanExploration/) <br>
 
+### IOOS
+- [IOOS Bio Data Guide](https://github.com/ioos/bio_data_guide/tree/main/datasets)
 <br>
 <br>
 
