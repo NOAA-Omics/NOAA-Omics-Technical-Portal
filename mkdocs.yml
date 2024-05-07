@@ -16,11 +16,11 @@ markdown_extensions:
       base_path: .
   - admonition
 nav:
-  - Home: 'index.rst'
-  - 'Data Management and Standards': 'Data-Management-Standards.rst'
-  - 'Omics Protocols': 'Omics-protocols.rst'
+  - Home: 'index.md'
+  - 'Data Management and Standards': 'Data-Management-Standards.md'
+  - 'Omics Protocols': 'Omics-protocols.md'
   - 'Bioinformatics Sequence Processing Protocols': 'Bioinformatics-sequence-processing-protocols.md'
-  - 'Aggregated Relevant NOAA Line Office Github Repositories': 'Aggregated-relevant-NOAA-Line-Office-Github-Repositories.rst'
+  - 'Aggregated Relevant NOAA Line Office Github Repositories': 'Aggregated-relevant-NOAA-Line-Office-Github-Repositories.md'
   - 'Missing NOAA Github Repositories?': 'missing.md'
   - 'Contributors': 'contributors.md'
 use_directory_urls: false
