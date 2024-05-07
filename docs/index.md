@@ -9,8 +9,10 @@ This site contains repositories and protocols used by [NOAA 'Omics](https://ocea
 
 Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html). <br>
 
-Contents
---------
+## Technical Portal Description
+This portal is a central repository for NOAA 'Omics resources. 
+
+### Contents
 - [Data Management and Standards](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Data-Management-Standards.html)
 - [Omics Protocols](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Omics-protocols.html)
 - [Bioinformatics Sequence Processing Protocols](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Bioinformatics-sequence-processing-protocols.html)
