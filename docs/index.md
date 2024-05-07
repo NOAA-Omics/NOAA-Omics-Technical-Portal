@@ -12,10 +12,3 @@ Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/t
 Contents
 --------
 
-.. toctree::
-
-   Data Management and Standards
-   Omics Protocols
-   Bioinformatics Sequence Processing Protocols
-   Aggregated Relevant NOAA Line Office Github Repositories
-   api
