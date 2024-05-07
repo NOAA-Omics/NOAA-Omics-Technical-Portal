@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'NOAA 'Omics Technical Portal'
+project = 'NOAA Omics Technical Portal'
 author = 'Zack Gold'
 
 release = '0.1'
