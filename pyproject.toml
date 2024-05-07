@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "NOAA Omics Technical Portal"
-authors = [{name = "NOAA Omics", email = ""}]
+name = "NOAA-Omics-Technical-Portal"
+authors = [{name = "Zack Gold", email = "zachary.gold@noaa.gov"}]
 dynamic = ["version", "description"]
