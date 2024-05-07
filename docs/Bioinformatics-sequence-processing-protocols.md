@@ -27,7 +27,9 @@ Population Genetics & Transcriptomics
 - [SWFSC Eric Archer's Repositories](https://github.com/EricArcher) <br>
 - [SWFSC Eric Anderson's Repositories](https://github.com/eriqande?tab=repositories) <br>
 - [AOML Michael Studivan's Repositories](https://github.com/mstudiva?tab=repositories) <br>
+- [AFSC Diana Baetscher Respositories](https://github.com/dbaetscher)
 
 Data Visualization
 ----------------
 - [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
+
