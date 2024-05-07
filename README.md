@@ -6,7 +6,7 @@
 (This site is currently underdevelopment. Thank you for your patience.)
 This site contains repositories and protocols used by [NOAA 'Omics](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html).
 
-[Click Here](https://noaa-omics-technical-portal.readthedocs.io/en/latest/index.html) to see the Technical Portal.
+**[Click Here](https://noaa-omics-technical-portal.readthedocs.io/en/latest/index.html)** to see the Technical Portal.
 
 ### Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and
