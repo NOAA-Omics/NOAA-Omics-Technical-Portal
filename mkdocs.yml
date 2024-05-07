@@ -1,0 +1,29 @@
+site_name: NOAA Omics Technical Portal
+theme:
+  name: readthedocs
+  highlightjs: true
+extra_css: [style_2.css]
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        # See: https://mkdocstrings.github.io/python/usage/
+        python:
+          options:
+            docstring_style: sphinx
+markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - admonition
+nav:
+  - Home: 'index.rst'
+  - 'Data Management and Standards': 'Data-Management-Standards.rst'
+  - 'Omics Protocols': 'Omics-protocols.rst'
+  - 'Bioinformatics Sequence Processing Protocols': 'Bioinformatics-sequence-processing-protocols.md'
+  - 'Aggregated Relevant NOAA Line Office Github Repositories': 'Aggregated-relevant-NOAA-Line-Office-Github-Repositories.rst'
+  - 'Missing NOAA Github Repositories?': 'missing.md'
+  - 'Contributors': 'contributors.md'
+use_directory_urls: false
+markdown_extensions:
+  - toc:
+      permalink: "#"

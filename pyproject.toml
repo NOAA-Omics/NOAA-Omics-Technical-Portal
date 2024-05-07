@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "NOAA Omics Technical Portal"
-authors = [{name = "Zack Gold", email = "zachary.gold@noaa.gov"}]
+authors = [{name = "NOAA Omics", email = ""}]
 dynamic = ["version", "description"]
