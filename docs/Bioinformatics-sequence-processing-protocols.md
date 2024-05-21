@@ -17,17 +17,17 @@ Metabarcoding
 - [Anacapa metabarcoding pipeline](https://github.com/limey-bean/Anacapa) <br>
 
 
-MetaGenomics
-----------------
-- [Amethyst Metagenomics Workflow](https://github.com/aomlomics/amethyst)  <br>
+#MetaGenomics
+#----------------
+#- [Amethyst Metagenomics Workflow](https://github.com/aomlomics/amethyst)  <br>
 
 
-Population Genetics & Transcriptomics
-----------------
-- [SWFSC Eric Archer's Repositories](https://github.com/EricArcher) <br>
-- [SWFSC Eric Anderson's Repositories](https://github.com/eriqande?tab=repositories) <br>
-- [AOML Michael Studivan's Repositories](https://github.com/mstudiva?tab=repositories) <br>
-- [AFSC Diana Baetscher Respositories](https://github.com/dbaetscher)
+#Population Genetics & Transcriptomics
+#----------------
+#- [SWFSC Eric Archer's Repositories](https://github.com/EricArcher) <br>
+#- [SWFSC Eric Anderson's Repositories](https://github.com/eriqande?tab=repositories) <br>
+#- [AOML Michael Studivan's Repositories](https://github.com/mstudiva?tab=repositories) <br>
+#- [AFSC Diana Baetscher Respositories](https://github.com/dbaetscher)
 
 Data Visualization
 ----------------
