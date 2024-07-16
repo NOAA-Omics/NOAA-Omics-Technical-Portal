@@ -16,7 +16,7 @@ NMFS
 - [NMFS Open Science Guide](https://nmfs-opensci.github.io/GitHub-Guide/) <br>
 - [The NOAA Fisheries Integrated Toolbox GitHub Organization](https://github.com/nmfs-fish-tools)<br>
 - [AFSC Genetics Program](https://github.com/AFSC-Genetics) <br>
-- [SWFSC Sedna users](https://github.com/sedna-users/overview/blob/main/README.md))
+- [SWFSC Sedna users](https://github.com/sedna-users/overview/blob/main/README.md)
 
 
 OER
