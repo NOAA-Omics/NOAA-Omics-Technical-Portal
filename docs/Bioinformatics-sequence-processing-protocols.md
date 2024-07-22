@@ -24,4 +24,5 @@ Population Genomics
 Data Visualization
 ----------------
 - [MBON eDNA data Visualization Tool](https://github.com/marinebon/edna-vis)
+- [Great Lakes Atlas for Multi-omics Research (GLAMR)](https://greatlakesomics.org/)
 
