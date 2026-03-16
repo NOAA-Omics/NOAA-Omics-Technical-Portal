@@ -12,6 +12,7 @@ The following is a list of GitHub repositories for individual NOAA science cente
 
 ## NOAA Fisheries (NMFS)
 
+- [NMFS Omics and Bioinformatics Resources](https://nmfs-ost.github.io/Genomics_Resources/)<br>
 - [Northwest Fisheries Science Center (NWFSC) Conservation Biology Division Repositories](https://github.com/nwfsc-cb)<br>
 - [California Cooperative Oceanic Fisheries Investigations (CalCOFI) Repositories](https://github.com/CalCOFI/) <br>
 - [National Marine Fisheries Service (NMFS) Open Science Guide](https://nmfs-opensci.github.io/GitHub-Guide/) <br>
